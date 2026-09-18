@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /admin/
+
+Sitemap: https://daouary-renovation-construction.pages.dev/sitemap.xml

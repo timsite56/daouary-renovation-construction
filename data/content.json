@@ -1,6 +1,6 @@
 {
   "nom_entreprise": "Daouary Rénovation Construction",
-  "type_artisan": "Couvreur",
+  "type_artisan": "Couvreur maçon",
   "ville": "Vallon-Pont-d'Arc",
   "telephone_affiche": "06 18 74 23 51",
   "telephone_tel": "+33618742351",
@@ -12,17 +12,17 @@
   },
   "hero": {
     "image": "images/hero-bg.jpg",
-    "titre": "Rénovation, toiture et construction en sud Ardèche",
-    "description": "Daouary Rénovation Construction à Vallon-Pont-d'Arc : rénovation et réparation de toiture, couverture neuve, zinguerie, démoussage, façade et peinture, à Aubenas et dans toute l'Ardèche."
+    "titre": "Couvreur et maçon en pierre dans le sud de l'Ardèche",
+    "description": "Daouary Rénovation Construction à Vallon-Pont-d'Arc : maçonnerie de pierre, création d'ouvertures, murs, dallages, charpente, couverture et isolation, à Aubenas et dans toute l'Ardèche."
   },
   "apropos": {
     "image": "images/apropos.jpg",
-    "texte": "Daouary Rénovation Construction est une entreprise de rénovation, de construction et de couverture installée au 25 rue de Saint-Martin, à Vallon-Pont-d'Arc. Maçonnerie de pierre, charpente, toiture en tuile canal, zinguerie, façades et peinture : nous prenons en charge vos projets de A à Z, de la simple réparation à la maison complète.\n\nNous intervenons à Vallon-Pont-d'Arc, Aubenas, Salavas, Lagorce, Les Vans, Ruoms et dans toute l'Ardèche. Le bâti ardéchois a ses exigences : pierre calcaire et galets de l'Ardèche, tuile canal, génoises, soleil et mistral l'été, épisodes cévenols à l'automne. Couverts par une garantie décennale et une responsabilité civile professionnelle, nous diagnostiquons avant de chiffrer : le devis est gratuit, détaillé poste par poste, et le chantier est protégé puis nettoyé avant notre départ.",
+    "texte": "Daouary Rénovation Construction est une entreprise de **maçonnerie de pierre**, de couverture et de rénovation installée au 25 rue de Saint-Martin, à Vallon-Pont-d'Arc. Couvreur et maçon, nous traitons aussi bien la charpente et la toiture en tuile canal que le rejointement à la chaux des façades en pierre, la création d'ouvertures dans les murs anciens, les murs en pierre de pays et les dallages en béton armé : vos projets sont pris en charge de A à Z, de la simple réparation à la maison complète.\n\nNous intervenons à Vallon-Pont-d'Arc, Aubenas, Salavas, Lagorce, Les Vans, Ruoms et dans toute l'Ardèche. Le bâti ardéchois a ses exigences : pierre calcaire et galets de l'Ardèche, tuile canal, génoises, soleil et mistral l'été, épisodes cévenols à l'automne. Couverts par une garantie décennale et une responsabilité civile professionnelle, nous diagnostiquons avant de chiffrer : le devis est gratuit, détaillé poste par poste, et le chantier est protégé puis nettoyé avant notre départ.",
     "badges": [
-      "Garantie décennale",
-      "Devis gratuit",
-      "Artisan local en Ardèche",
-      "Chantier propre"
+      "Maçonnerie de pierre",
+      "Qualibat RGE",
+      "Adhérent CAPEB",
+      "Garantie décennale"
     ]
   },
   "stats": [
@@ -51,23 +51,93 @@
       ]
     },
     {
-      "titre": "Pose de Toiture Neuve",
-      "description": "Installation complète de toitures traditionnelles ou modernes, avec des matériaux adaptés à vos besoins et au climat local.",
+      "titre": "Charpente et couverture neuve",
+      "description": "Charpente traditionnelle, couverture neuve en tuile canal ou mécanique, écran sous-toiture et finitions de génoise.",
       "image": "images/service2.jpg",
       "page": "pose-toiture-neuve.html",
       "points": [
-        "Tuile terre cuite, tuile mécanique ou bac acier",
+        "Charpente traditionnelle et fermettes",
         "Dépose de l'ancienne couverture",
-        "Pose de l'écran sous-toiture",
-        "Liteaunage et fixation",
-        "Isolation de la sous-toiture",
-        "Finitions de rives, arêtiers et faîtage"
+        "Écran sous-toiture et liteaunage",
+        "Tuile canal, romane ou mécanique",
+        "Génoises, rives et faîtages scellés",
+        "Raccords de cheminée et de souche"
+      ]
+    },
+    {
+      "titre": "Nettoyage et rejointement de façade en pierre",
+      "description": "Nettoyage doux, dégarnissage des joints fatigués et rejointement à la chaux des murs en pierre — sans enduit qui étouffe le mur.",
+      "image": "images/service3.jpg",
+      "page": "rejointement-facade-pierre.html",
+      "points": [
+        "Nettoyage doux de la pierre",
+        "Dégarnissage des joints dégradés",
+        "Rejointement au mortier de chaux",
+        "Joints beurrés, brossés ou à pierre vue",
+        "Reprise des pierres épaufrées",
+        "Traitement des remontées d'humidité"
+      ]
+    },
+    {
+      "titre": "Création d'ouvertures en mur de pierre",
+      "description": "Fenêtre, porte ou baie vitrée dans un mur ancien : étaiement, linteau, jambages en pierre et finitions dans les règles de l'art.",
+      "image": "images/service4.jpg",
+      "page": "creation-ouverture-mur-pierre.html",
+      "points": [
+        "Étude de faisabilité et étaiement",
+        "Sciage et ouverture du mur porteur",
+        "Pose de linteau béton, bois ou pierre",
+        "Jambages et tableaux en pierre de taille",
+        "Appui de fenêtre et seuil",
+        "Reprise des finitions intérieures"
+      ]
+    },
+    {
+      "titre": "Réalisation de murs en pierre",
+      "description": "Murs de clôture, murets, murs de soutènement et restauration de murs anciens en pierre du pays, montés à la chaux ou à pierre sèche.",
+      "image": "images/service5.jpg",
+      "page": "mur-en-pierre.html",
+      "points": [
+        "Mur de clôture et muret de jardin",
+        "Mur de soutènement et restanque",
+        "Pierre de pays calcaire",
+        "Montage à la chaux ou à pierre sèche",
+        "Couronnement et chaperon",
+        "Restauration de murs anciens effondrés"
+      ]
+    },
+    {
+      "titre": "Planchers et dallages en béton armé",
+      "description": "Dalles, planchers et chapes en béton armé en rénovation : reprise de niveaux, hérisson, isolation et ferraillage dans le bâti ancien.",
+      "image": "images/service6.jpg",
+      "page": "plancher-dallage-beton.html",
+      "points": [
+        "Dallage béton armé sur hérisson",
+        "Plancher béton en rénovation",
+        "Reprise de niveaux et décaissement",
+        "Ferraillage et coffrage",
+        "Isolation sous dalle et film polyane",
+        "Chape de finition talochée"
+      ]
+    },
+    {
+      "titre": "Isolation de toiture et de combles",
+      "description": "Isolation par l'extérieur en panneaux de toiture (sarking) pendant la réfection, et isolation soufflée des combles perdus.",
+      "image": "images/service7.jpg",
+      "page": "isolation-toiture-combles.html",
+      "points": [
+        "Panneaux de toiture isolants (sarking)",
+        "Isolation par l'extérieur sans perdre de volume",
+        "Isolation des combles perdus",
+        "Écran de sous-toiture respirant",
+        "Ventilation de la couverture",
+        "Traitement des ponts thermiques"
       ]
     },
     {
       "titre": "Entretien et Démoussage",
       "description": "Nettoyage professionnel, traitement préventif et entretien régulier pour préserver l'intégrité et l'esthétique de votre couverture.",
-      "image": "images/service3.jpg",
+      "image": "images/service8.jpg",
       "page": "entretien-demoussage.html",
       "points": [
         "Démoussage manuel et mécanique",
@@ -79,37 +149,9 @@
       ]
     },
     {
-      "titre": "Peinture Intérieure",
-      "description": "Nous réalisons tous vos travaux de peinture pour murs, plafonds et boiseries. Choix de couleurs, conseils personnalisés et finitions impeccables pour un intérieur qui vous ressemble.",
-      "image": "images/service4.jpg",
-      "page": "peinture-interieure.html",
-      "points": [
-        "Murs, plafonds et boiseries",
-        "Rebouchage et préparation des supports",
-        "Peinture mate, satinée ou velours",
-        "Pose de papier peint et revêtements",
-        "Conseils couleurs personnalisés",
-        "Protection du mobilier et nettoyage"
-      ]
-    },
-    {
-      "titre": "Peinture Extérieure",
-      "description": "Protection et embellissement de vos façades, boiseries et ferronneries. Des produits résistants aux intempéries pour une durabilité et un esthétisme préservés.",
-      "image": "images/service5.jpg",
-      "page": "peinture-exterieure.html",
-      "points": [
-        "Façades, volets et portails",
-        "Bardages et ferronneries",
-        "Traitement antirouille et antifongique",
-        "Peintures microporeuses extérieures",
-        "Boiseries et garde-corps",
-        "Protection des abords du chantier"
-      ]
-    },
-    {
       "titre": "Travaux de zinguerie",
       "description": "Installation et réparation de gouttières, chéneaux et éléments en zinc pour une évacuation optimale des eaux pluviales et une protection accrue de votre façade.",
-      "image": "images/service6.jpg",
+      "image": "images/service9.jpg",
       "page": "zinguerie.html",
       "points": [
         "Gouttières pendantes et rampantes",
@@ -121,23 +163,9 @@
       ]
     },
     {
-      "titre": "Nettoyage et ravalement façade",
-      "description": "Redonnez un coup de jeune à vos murs extérieurs. Nous nettoyons et traitons vos façades pour une protection durable et une esthétique renouvelée.",
-      "image": "images/service7.jpg",
-      "page": "nettoyage-ravalement-facade.html",
-      "points": [
-        "Nettoyage haute pression et brossage",
-        "Traitement anti-mousse des murs",
-        "Reprise des fissures et des épaufrures",
-        "Enduit taloché, gratté ou à la chaux",
-        "Peinture de façade microporeuse",
-        "Protection hydrofuge incolore"
-      ]
-    },
-    {
       "titre": "Installation et remplacement de Velux",
       "description": "Pose et remplacement de fenêtres de toit Velux pour apporter plus de lumière et améliorer votre confort.",
-      "image": "images/service8.jpg",
+      "image": "images/service10.jpg",
       "page": "pose-velux.html",
       "points": [
         "Création de la trémie dans la charpente",
@@ -151,7 +179,7 @@
     {
       "titre": "Peinture de toiture",
       "description": "Redonnez de l'éclat à votre toiture grâce à une peinture professionnelle résistante aux intempéries et aux UV.",
-      "image": "images/service9.jpg",
+      "image": "images/service11.jpg",
       "page": "peinture-toiture.html",
       "points": [
         "Nettoyage et traitement préalable",
@@ -229,19 +257,19 @@
   "faq": [
     {
       "question": "Intervenez-vous en urgence ?",
-      "reponse": "Oui. En cas de fuite, de tuiles arrachées ou de dégâts après un orage, appelez-nous : nous passons en priorité poser une protection provisoire, puis nous chiffrons la remise en état."
+      "reponse": "Oui. En cas de fuite, de tuiles arrachées ou de dégâts après un orage, appelez-nous au 06 18 74 23 51 : nous posons une protection provisoire dans les meilleurs délais, puis nous chiffrons la remise en état."
     },
     {
-      "question": "Travaillez-vous la tuile canal ?",
-      "reponse": "Oui. C'est la couverture traditionnelle de l'Ardèche, et nous la posons en neuf comme en reprise. Nous intervenons aussi sur tuile mécanique, fibrociment et bac acier."
+      "question": "Travaillez-vous la tuile canal et la pierre de pays ?",
+      "reponse": "Oui. La tuile canal fait partie des couvertures que nous posons et réparons le plus souvent dans tout le sud de l'Ardèche. Nous intervenons aussi sur tuile canal, tuile romane, tuile mécanique et bac acier, et nous assortissons toujours les éléments neufs à l'existant."
     },
     {
       "question": "À quelle fréquence faut-il démousser un toit en Ardèche ?",
-      "reponse": "Tous les cinq à huit ans. L'ombre des arbres et l'humidité des épisodes cévenols favorisent la repousse des mousses, surtout sur les pans exposés au nord."
+      "reponse": "Tous les quatre à six ans. Avec le soleil et le mistral de l'été, puis les épisodes cévenols de l'automne, la mousse repousse vite, surtout sur les pans exposés au nord et à proximité des arbres. Un traitement hydrofuge espace nettement les interventions."
     },
     {
       "question": "Dans quelles communes intervenez-vous ?",
-      "reponse": "Nous intervenons à Vallon-Pont-d'Arc et dans tout le sud Ardèche : Aubenas, Salavas, Lagorce, Labeaume, Les Vans, Pradons, Saint-Remèze, Vogüé, Joyeuse, Largentière, Ruoms, Barjac, ainsi que Bourg-Saint-Andéol, Saint-Martin-d'Ardèche et Villeneuve-de-Berg."
+      "reponse": "Nous intervenons à Vallon-Pont-d'Arc et dans tout le sud de l'Ardèche : Aubenas, Salavas, Lagorce, Labeaume, Les Vans, Pradons, Saint-Remèze, Vogüé, Joyeuse, Largentière, Ruoms, Barjac, Bourg-Saint-Andéol, Saint-Martin-d'Ardèche et Villeneuve-de-Berg."
     },
     {
       "question": "Quand faut-il envisager une rénovation de toiture ?",
@@ -252,8 +280,8 @@
       "reponse": "Oui, le devis est gratuit, détaillé poste par poste et sans engagement. Nous nous déplaçons sur place pour évaluer les travaux et vous donner un prix ferme."
     }
   ],
-  "contact_description": "Un projet de toiture, de rénovation ou de façade ? Appelez-nous, le devis est gratuit.",
-  "footer_description": "Daouary Rénovation Construction, couvreur à Vallon-Pont-d'Arc (07). Rénovation et réparation de toiture, couverture neuve, zinguerie, démoussage, façade et peinture dans toute l'Ardèche.",
+  "contact_description": "Une fuite ou un projet de toiture ? Appelez-nous au 06 18 74 23 51, le devis est gratuit.",
+  "footer_description": "Couvreur maçon à Vallon-Pont-d'Arc (07). Rénovation et réparation de toiture, zinguerie, démoussage, Velux, façade et peinture dans tout le sud de l'Ardèche.",
   "horaires": {
     "visible": true,
     "adresse": "25 rue de Saint-Martin, 07150 Vallon-Pont-d'Arc",
@@ -324,9 +352,9 @@
     ]
   },
   "seo": {
-    "title": "Couvreur à Vallon-Pont-d'Arc (07) — toiture, zinguerie et façade | Daouary Rénovation Construction",
-    "description": "Daouary Rénovation Construction, couvreur à Vallon-Pont-d'Arc près d'Aubenas : rénovation et réparation de toiture, couverture neuve, zinguerie, démoussage, Velux, façade et peinture en Ardèche. Devis gratuit au 06 18 74 23 51.",
-    "keywords": "couvreur Vallon-Pont-d'Arc, couvreur Aubenas, couvreur 07, rénovation toiture Ardèche, charpente Ardèche, démoussage toiture Aubenas, zinguerie Vallon-Pont-d'Arc, couvreur Salavas, couvreur Ruoms, tuile canal Ardèche",
+    "title": "Couvreur maçon à Vallon-Pont-d'Arc et à Aubenas (07) — toiture, zinguerie, démoussage | Daouary Rénovation Construction",
+    "description": "Daouary Rénovation Construction, couvreur maçon à Vallon-Pont-d'Arc : rénovation et réparation de toiture, couverture neuve, démoussage, zinguerie, Velux, façade et peinture dans tout le sud de l'Ardèche. Devis gratuit au 06 18 74 23 51.",
+    "keywords": "couvreur Vallon-Pont-d'Arc, couvreur Aubenas, couvreur 07, rénovation toiture Ardèche, zinguerie Ruoms, démoussage toiture Aubenas, couvreur Lagorce, couvreur Labeaume, toiture Vallon-Pont-d'Arc, réparation fuite toiture Ardèche",
     "email": "",
     "code_postal": "07150",
     "departement": "Ardèche",

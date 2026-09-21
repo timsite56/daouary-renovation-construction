@@ -320,3 +320,7 @@ footer { background: var(--footer-bg); padding: 3.5rem 11% 2rem; }
   .nav-links a { padding: 0.4rem 0.36rem; font-size: 0.775rem; }
   .nav-cta { padding: 0.45rem 0.8rem !important; font-size: 0.78rem !important; }
 }
+@media (max-width: 600px) {
+  .nav-logo { white-space: normal; font-size: 0.8rem; line-height: 1.15; max-width: 42vw; }
+  .nav-phone-mobile { font-size: 0.72rem; padding: 0.38rem 0.6rem; }
+}

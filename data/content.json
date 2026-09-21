@@ -17,7 +17,7 @@
   },
   "apropos": {
     "image": "images/apropos.jpg",
-    "texte": "Daouary Rénovation Construction est une entreprise de **maçonnerie de pierre**, de couverture et de rénovation installée au 25 rue de Saint-Martin, à Vallon-Pont-d'Arc. Couvreur et maçon, nous traitons aussi bien la charpente et la toiture en tuile canal que le rejointement à la chaux des façades en pierre, la création d'ouvertures dans les murs anciens, les murs en pierre de pays et les dallages en béton armé : vos projets sont pris en charge de A à Z, de la simple réparation à la maison complète.\n\nNous intervenons à Vallon-Pont-d'Arc, Aubenas, Salavas, Lagorce, Les Vans, Ruoms et dans toute l'Ardèche. Le bâti ardéchois a ses exigences : pierre calcaire et galets de l'Ardèche, tuile canal, génoises, soleil et mistral l'été, épisodes cévenols à l'automne. Couverts par une garantie décennale et une responsabilité civile professionnelle, nous diagnostiquons avant de chiffrer : le devis est gratuit, détaillé poste par poste, et le chantier est protégé puis nettoyé avant notre départ.",
+    "texte": "Daouary Rénovation Construction est une entreprise de <strong>maçonnerie de pierre</strong>, de couverture et de rénovation installée au 25 rue de Saint-Martin, à Vallon-Pont-d'Arc. Couvreur et maçon, nous traitons aussi bien la charpente et la toiture en tuile canal que le rejointement à la chaux des façades en pierre, la création d'ouvertures dans les murs anciens, les murs en pierre de pays et les dallages en béton armé : vos projets sont pris en charge de A à Z, de la simple réparation à la maison complète.\n\nNous intervenons à Vallon-Pont-d'Arc, Aubenas, Salavas, Lagorce, Les Vans, Ruoms et dans toute l'Ardèche. Le bâti ardéchois a ses exigences : pierre calcaire et galets de l'Ardèche, tuile canal, génoises, soleil et mistral l'été, épisodes cévenols à l'automne. Couverts par une garantie décennale et une responsabilité civile professionnelle, nous diagnostiquons avant de chiffrer : le devis est gratuit, détaillé poste par poste, et le chantier est protégé puis nettoyé avant notre départ.",
     "badges": [
       "Maçonnerie de pierre",
       "Qualibat RGE",
@@ -122,11 +122,11 @@
     },
     {
       "titre": "Isolation de toiture et de combles",
-      "description": "Isolation par l'extérieur en panneaux de toiture (sarking) pendant la réfection, et isolation soufflée des combles perdus.",
+      "description": "Isolation par l'extérieur en panneaux de toiture Trilatte pendant la réfection, et isolation soufflée des combles perdus.",
       "image": "images/service7.jpg",
       "page": "isolation-toiture-combles.html",
       "points": [
-        "Panneaux de toiture isolants (sarking)",
+        "Panneaux de toiture isolants Trilatte",
         "Isolation par l'extérieur sans perdre de volume",
         "Isolation des combles perdus",
         "Écran de sous-toiture respirant",
@@ -281,7 +281,7 @@
     }
   ],
   "contact_description": "Une fuite ou un projet de toiture ? Appelez-nous au 06 18 74 23 51, le devis est gratuit.",
-  "footer_description": "Couvreur maçon à Vallon-Pont-d'Arc (07). Rénovation et réparation de toiture, zinguerie, démoussage, Velux, façade et peinture dans tout le sud de l'Ardèche.",
+  "footer_description": "Daouary Rénovation Construction, couvreur maçon à Vallon-Pont-d'Arc (07). Maçonnerie de pierre, rejointement de façade, création d'ouvertures, charpente, couverture, zinguerie et isolation dans tout le sud de l'Ardèche.",
   "horaires": {
     "visible": true,
     "adresse": "25 rue de Saint-Martin, 07150 Vallon-Pont-d'Arc",
@@ -353,7 +353,7 @@
   },
   "seo": {
     "title": "Couvreur maçon à Vallon-Pont-d'Arc et à Aubenas (07) — toiture, zinguerie, démoussage | Daouary Rénovation Construction",
-    "description": "Daouary Rénovation Construction, couvreur maçon à Vallon-Pont-d'Arc : rénovation et réparation de toiture, couverture neuve, démoussage, zinguerie, Velux, façade et peinture dans tout le sud de l'Ardèche. Devis gratuit au 06 18 74 23 51.",
+    "description": "Daouary Rénovation Construction, couvreur maçon à Vallon-Pont-d'Arc : maçonnerie de pierre, rejointement de façade à la chaux, création d'ouvertures, murs en pierre, dallages, charpente, couverture, zinguerie et isolation en Ardèche. Devis gratuit au 06 18 74 23 51.",
     "keywords": "couvreur Vallon-Pont-d'Arc, couvreur Aubenas, couvreur 07, rénovation toiture Ardèche, zinguerie Ruoms, démoussage toiture Aubenas, couvreur Lagorce, couvreur Labeaume, toiture Vallon-Pont-d'Arc, réparation fuite toiture Ardèche",
     "email": "",
     "code_postal": "07150",

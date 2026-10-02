@@ -636,7 +636,7 @@ async function updateSeoInIndex() {
     const ville = htmlAttr(state.ville);
     const tel   = state.telephone_tel  || state.telephone_affiche || '';
     const rawDesc = htmlAttr(state.hero.description || state.hero.titre).slice(0, 160);
-    const siteUrl = window.location.origin + '/';
+    const siteUrl = 'https://daouary-renovation-construction.pages.dev/';
 
     /* ── Bloc `seo` de content.json : il PRIME sur les valeurs auto-générées ──
        Sans lui, chaque « Publier » écrasait le titre, la description, les
